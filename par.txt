@@ -1,0 +1,5 @@
+colfiorito_ipo.txt #input point file
+densita_ipo_11.vtk #output
+500 #cell size
+qn #kernel function(s): n stands for normal distribution, q for quartic distribution
+5 #kernel bandwidth
